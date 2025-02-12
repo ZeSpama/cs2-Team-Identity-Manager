@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![1](https://prnt.sc/V5xf-J4Fdmn5)
+![1](https://media.discordapp.net/attachments/1117201312396886026/1339023061428600852/image.png?ex=67ad35e7&is=67abe467&hm=ca9a8605c418182003aef3207d4beeacc7fad1f80095e214567d8fb824c77e50&=&format=webp&quality=lossless)
 
 ## Features
 
